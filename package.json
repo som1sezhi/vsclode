@@ -4,6 +4,10 @@
   "description": "Live Blaseball updates, right in your documents",
   "version": "0.0.1",
   "publisher": "som1sezhi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/som1sezhi/vsclode.git"
+  },
   "engines": {
     "vscode": "^1.60.0"
   },
